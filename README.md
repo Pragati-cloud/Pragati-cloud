@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pragati-cloud
-- 👀 I’m interested in Web development and learning AI
+- 👀 I’m working in Full stack and Machine Learning.
 - 🌱 I’m currently learning Javascript and React jS
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me ..You can reach me through email= pragatimis2004@gmail.com
