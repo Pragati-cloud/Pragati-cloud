@@ -1,11 +1,10 @@
-# 👋 Hey there, I'm Pragati Mishra (@Pragati-cloud)
+# 👋 Hey there, I'm Pragati Mishra
 
 🚀 A passionate Full Stack Developer and Machine Learning enthusiast.<br>
 🎯 Always curious and continuously learning!
 
 ## 👩‍💻 What I'm up to:
 - 🔧 Working on exciting **Full Stack** and **ML projects**
-- 🌱 Currently learning **JavaScript** and **React.js**
 - 🤝 Open to **collaborate on innovative projects**
 - 🧠 Exploring the world of **AI, DevTools, and Generative Tech**
 
@@ -13,7 +12,7 @@
 Feel free to reach out for collaboration or just to say hi!
 
 📬 Email: [pragatimis2004@gmail.com](mailto:pragatimis2004@gmail.com)  
-🌐 Portfolio: my3d-portfolio-gm21.vercel.app
+🌐 Portfolio: [my3d-portfolio-gm21.vercel.app](https://my3d-portfolio-gm21.vercel.app/)
 💼 LinkedIn: https://www.linkedin.com/in/pragati-mishra2004
 
 ---
