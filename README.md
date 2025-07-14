@@ -22,6 +22,20 @@
 - 🔧 Working on exciting **Full Stack** and **ML projects**
 - 🤝 Open to **collaborate on innovative projects**
 - 🧠 Exploring the world of **AI, DevTools, and Generative Tech**
+- 🧪 Experimenting with **Generative AI** tools and APIs
+
+---
+
+## 🌐 Community Leadership & Involvement
+
+- 🧭 Lead Organizer at **GDG SRIT Jabalpur**
+- 📢 Organized **5+ tech events** on topics like **Cloud, Web Development, and App Dev**
+- 🚀 Actively contributing to developer communities and peer mentoring
+- 🛠️ Selected for final rounds in:
+  - Barhmax 1.0 (Top 5 Finalist)
+  - Hack On Hills 6.0
+  - Hack 'N Crack
+  - Social Summer Of Code (SSOC) Season 3
 
 ---
 
@@ -54,6 +68,7 @@
 <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=node.js&logoColor=00F0FF" alt="Node.js" style="border-radius: 8px; box-shadow: 0 2px 8px #00f0ff33;" />
 <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Python" style="border-radius: 8px; box-shadow: 0 2px 8px #00f0ff33;" />
 <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" style="border-radius: 8px; box-shadow: 0 2px 8px #00f0ff33;" />
+
 </div>
 
 ---
@@ -63,11 +78,4 @@
 > *I love combining code with creativity — whether it's building websites or exploring AI models!*
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragatimisra&show_icons=true&theme=radical&hide_border=true" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragatimisra&theme=radical&hide_border=true" width="47%" />
-
-</div>
 
