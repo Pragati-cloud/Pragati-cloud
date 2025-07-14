@@ -28,7 +28,7 @@
 
 ## 🌐 Community Leadership & Involvement
 
-- 🧭 Lead Organizer at **GDG SRIT Jabalpur**
+- 🧭 Lead Organizer at **GDG SRIT Jabalpur** (2024 - 25)
 - 📢 Organized **5+ tech events** on topics like **Cloud, Web Development, and App Dev**
 - 🚀 Actively contributing to developer communities and peer mentoring
 - 🛠️ Selected for final rounds in:
